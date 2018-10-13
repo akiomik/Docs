@@ -127,7 +127,7 @@ Cachet comes with an installation command that will:
 {
   "codes": [
     {
-      "code": "$ php artisan app:install\t",
+      "code": "$ php artisan cachet:install\t",
       "language": "shell"
     }
   ]
