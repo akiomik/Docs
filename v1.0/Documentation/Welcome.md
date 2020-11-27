@@ -17,6 +17,6 @@ You can click on the **Suggest Edits** link on the top right side of any documen
   "title": "Installation Service"
 }
 [/block]
-We offer a professional installation service. Send us an [email](mailto:support@alt-three.com?subject=Cachet Installation) with your requirements and we'll be happy to get everything setup for you!
+We offer a professional installation service. Send us an [email](mailto:support@alt-three.com?subject=Cachet%20Installation) with your requirements and we'll be happy to get everything setup for you!
 
 _* Our professional installation service starts from $249._
